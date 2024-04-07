@@ -14,4 +14,5 @@ Stretch Features:
 [x] Add buttons or links to a related resource on each card component
 [x] Make the site responsive for both desktop and mobile formats
 
-gif url: https://submissions.us-east-1.linodeobjects.com/web102/feytI7pz.gif
+![gif url](pj1.gif)
+
