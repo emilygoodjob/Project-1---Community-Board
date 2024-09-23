@@ -1,22 +1,23 @@
 # Web Development Project 1 - *Community Board*
 
-Submitted by: **Emily Gao Wang**
+Submitted by: Emily Gao Wang
+Total time spent: 6 hours
 
-This web app: **insert description**
+## Overview
 
-Time spent: **6** hours spent in total
+This web app showcases community-relevant events and resources in a responsive card format, providing a user-friendly way to explore valuable content.
 
-## Required Features
+## Features
 
-The following **required** functionality is completed:
+**Core Functionality**
 
-- [x] **There is a unique theme for events or resources relevant to a specific community**
-- [x] **At least 10 unique resources or events are displayed in a responsive card format**
+- Displays at least 10 unique resources or events relevant to a specific community.
+- Content is displayed in a responsive card format.
 
-The following **optional** features are implemented:
+**Optional Features**
 
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- Future integration of buttons or links to related resources on each card.
+- The site is designed to be responsive for both desktop and mobile.
 
 The following **additional** features are implemented:
 
@@ -35,22 +36,6 @@ GIF created with LICEcap
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+This project is licensed under the Apache License, Version 2.0. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
